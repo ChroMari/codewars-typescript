@@ -1,0 +1,1 @@
+export const squareSum = (numbers: number[]): number => numbers.reduce((acc, item) => acc + item**2, 0);
